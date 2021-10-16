@@ -1,0 +1,26 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "utils": "./dist/bin/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Iliushyk <ailushyk@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
+  }
+}
