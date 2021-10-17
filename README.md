@@ -7,7 +7,7 @@
 ## Installation
 
 ```shell
-npm i @ailushyk/utils
+npm i --save-dev @ailushyk/utils
 ```
 
 ## Init new project
