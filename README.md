@@ -7,9 +7,7 @@
 ## Installation
 
 ```shell
-git clone git@github.com:ailushyk/utils.git
-cd utils && npm build
-npm link
+npm i @ailushyk/utils
 ```
 
 ## Init new project
@@ -54,4 +52,7 @@ utils publish
 
 // clean up build directory, build and publish
 utils publish --clean-build=dist
+
+// NPX
+npx @ailushyk/utils publish
 ```
