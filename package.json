@@ -2,7 +2,7 @@
   "name": "@ailushyk/utils",
   "version": "0.0.2",
   "description": "",
-  "main": "dist/index.js",
+  "main": "src/libs/index.js",
   "bin": {
     "utils": "./dist/bin/index.js"
   },
@@ -12,7 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "keywords": [],
   "author": "Alex Iliushyk <ailushyk@gmail.com>",
