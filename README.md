@@ -56,3 +56,11 @@ utils publish --clean-build=dist
 // NPX
 npx @ailushyk/utils publish
 ```
+
+## Setup app
+
+### Code Style
+Setup eslint + prettier
+```shell
+npx @ailushyk/utils setup-code-style
+```

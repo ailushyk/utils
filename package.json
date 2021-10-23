@@ -13,7 +13,8 @@
   },
   "files": [
     "dist",
-    "src"
+    "src",
+    "templates"
   ],
   "keywords": [],
   "author": "Alex Iliushyk <ailushyk@gmail.com>",
@@ -29,9 +30,9 @@
     "@types/node": "^16.11.0",
     "@types/rimraf": "^3.0.2",
     "@types/shelljs": "^0.8.9",
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
-    "@typescript-eslint/parser": "^5.0.0",
-    "eslint": "^8.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.1.0",
+    "@typescript-eslint/parser": "^5.1.0",
+    "eslint": "^8.1.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.4.1",
